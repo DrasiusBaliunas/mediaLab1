@@ -21,5 +21,5 @@ or try a live example: https://jsbin.com/gejugat/edit?html,output
   
 
 # DONE:  
-HLS player: https://github.com/videojs/video.js
+HLS player: https://github.com/videojs/video.js	
 Runs "Big Bunny"
