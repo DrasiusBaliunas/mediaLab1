@@ -21,5 +21,6 @@ or try a live example: https://jsbin.com/gejugat/edit?html,output
   
 
 # DONE:  
-HLS player: https://github.com/videojs/video.js	
-Runs "Big Bunny"
+ - HLS player: https://github.com/videojs/video.js	
+ - Runs "Big Bunny"	
+ - Tested on: Google Chrome - Version 73.0.3683.103 | Microsoft Edge 42.17134.1.0
